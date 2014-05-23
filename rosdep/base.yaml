@@ -2528,7 +2528,7 @@ tango-icon-theme:
   arch: [tango-icon-theme]
   debian: [tango-icon-theme]
   fedora: [tango-icon-theme]
-  gentoo: [gentoo, x11-themes/tango-icon-theme]
+  gentoo: [x11-themes/tango-icon-theme]
   macports: [tango-icon-theme]
   mandrake: [tango-icon-theme]
   opensuse: [tango-icon-theme]
