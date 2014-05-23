@@ -442,6 +442,7 @@ python-kitchen:
   arch: [python-kitchen]
   debian: [python-kitchen]
   fedora: [python-kitchen]
+  gentoo: [python-kitchen]
   ubuntu:
     lucid: [python-kitchen]
     maverick: [python-kitchen]

@@ -541,7 +541,7 @@ ffmpeg:
   fedora: [ffmpeg-devel]
   gentoo:
     portage:
-      packages: [media-plugins/ffmpeg]
+      packages: [virtual/ffmpeg]
   macports: [ffmpeg]
   ubuntu:
     lucid: [ffmpeg, libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev]
