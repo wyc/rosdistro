@@ -2297,7 +2297,7 @@ qt4-qmake:
   arch: [qt4]
   debian: [qt4-qmake]
   fedora: [qt-devel]
-  gentoo: [qt-core]
+  gentoo: ["qtcore:4"]
   macports: [qt4-mac]
   opensuse: [libqt4-devel]
   rhel: [qt-devel]
