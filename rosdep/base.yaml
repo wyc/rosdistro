@@ -120,7 +120,7 @@ assimp-dev:
   fedora: [assimp-devel]
   gentoo:
     portage:
-      packages: [media-libs/assimp]
+      packages: [media-gfx/assimp]
   opensuse: [libassimp3]
   rhel: [assimp-devel]
   ubuntu:
